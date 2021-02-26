@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30907.101
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ChakaAPITask", "ChakaAPITask.csproj", "{FC1A82F7-4B0B-43D1-BBB3-564B62FF9341}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ChakaAPITask.UnitTests", "..\ChakaAPITask.UnitTests\ChakaAPITask.UnitTests.csproj", "{39E53A1D-8F7F-463D-AADD-68D5DF8F0B63}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FC1A82F7-4B0B-43D1-BBB3-564B62FF9341}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FC1A82F7-4B0B-43D1-BBB3-564B62FF9341}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FC1A82F7-4B0B-43D1-BBB3-564B62FF9341}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FC1A82F7-4B0B-43D1-BBB3-564B62FF9341}.Release|Any CPU.Build.0 = Release|Any CPU
+		{39E53A1D-8F7F-463D-AADD-68D5DF8F0B63}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{39E53A1D-8F7F-463D-AADD-68D5DF8F0B63}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{39E53A1D-8F7F-463D-AADD-68D5DF8F0B63}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{39E53A1D-8F7F-463D-AADD-68D5DF8F0B63}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1E0D7D75-1444-4794-8110-7E4D9789E5BC}
+	EndGlobalSection
+EndGlobal
